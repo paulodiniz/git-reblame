@@ -15,4 +15,4 @@ make install || {
 
 cd ..
 
-rm -rf git-standup
+rm -rf git-reblame
