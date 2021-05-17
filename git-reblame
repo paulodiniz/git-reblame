@@ -1,3 +1,9 @@
 #!/usr/bin/env bash
 
-echo "Still Pascal"
+if [[ $(date '+%m-%d') == '05-08' ]]
+then 
+	his="Chris'"
+else 
+	his="Pascal's"
+fi
+echo "It's $his fault"
