@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if [[ $(date '+%m-%d') == '05-08' ]]
+if [[ $(date '+%m-%d') == '05-06' ]]
 then 
 	his="Chris'"
 else 
